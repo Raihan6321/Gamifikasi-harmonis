@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5hH7Cknnm5z":
+      case "66SBKx4u58B":
         Script1();
         break;
   }
@@ -14,6 +14,6 @@ function Script1()
 audio.src="BGM.mp3";
 audio.load();
 audio.play();
-audio.volume=0.3;
+audio.volume=0.1;
 }
 
